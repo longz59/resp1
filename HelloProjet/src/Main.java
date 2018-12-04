@@ -9,5 +9,6 @@ public class Main {
 		int a = 10 ;
 		int c = 30;
 		int d  = 10;
+		int e  = 19;
     }
 }
