@@ -10,5 +10,6 @@ public class Main {
 		int c = 30;
 		int d  = 10;
 		int e  = 19;
+		int f = 36;
     }
 }
