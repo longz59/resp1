@@ -13,7 +13,8 @@ public class Main {
         int f = 36;
     }
     public void aVoid(){
-
+    int a  = 4444;
 
     }
+
 }
