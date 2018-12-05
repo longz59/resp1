@@ -15,5 +15,23 @@ public class Main {
 
     public static void main(String[] args) {
 
+        int b = 20;
+        int a = 10 ;
+        int c = 30;
+        int d  = 10;
+        int e  = 19;
+        int f = 36;
+    }
+    public void aVoid(){
+
+
+    }
+    public void method(){
+        aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+    }
+
+    public static void main(String[] args) {
+
     }
 }
