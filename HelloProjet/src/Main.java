@@ -12,4 +12,8 @@ public class Main {
         int e  = 19;
         int f = 36;
     }
+    public void aVoid(){
+
+
+    }
 }
