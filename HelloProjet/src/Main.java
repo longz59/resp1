@@ -12,6 +12,11 @@ public class Main {
         int e  = 19;
         int f = 36;
     }
+    public void aVoid(){
+    int a  = 4444;
+
+    }
+
 
     public static void main(String[] args) {
 
